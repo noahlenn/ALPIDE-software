@@ -1,3 +1,3 @@
-# AlpideViewer
+# AlpideSoftware
 
-Filer knyttet til ALPIDE bacheloroppgave
+Alle filer knuttet til bachelorprosjektet ligger her: https://github.com/EmilMotroen/bachelor-prosjekt
